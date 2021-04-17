@@ -27,11 +27,11 @@ Farben: #0b0c17 / #ff3571 / #dddddd / #3C30FF / #FFF / #000 */
 }
 #logoPic 
 {
- background-image: url(../img/logo.svg);   
- background-repeat: no-repeat;
- width: 80px;
- height: 60px;
- display: flex;
+    background-image: url(../img/logo.svg);   
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 60px;
+    display: flex;
 }
 #logoText h1
 {
@@ -78,9 +78,9 @@ header
 }
 #frontText h1
 {
-   margin-left: 100px;
-   font-size: 72px;
-   margin-bottom: 10px;
+    margin-left: 100px;
+    font-size: 72px;
+    margin-bottom: 10px;
 }
 #frontText p
 {
@@ -91,8 +91,8 @@ header
 }
  #frontText p:last-of-type
 {
-font-size: 18px;
-color:#ff3571;
+    font-size: 18px;
+    color:#ff3571;
 }
  #pic2 img
 {
@@ -118,8 +118,8 @@ section img
 }
 .firstSection h1
 { 
-font-size: 56px;
-margin-left: 100px;
+    font-size: 56px;
+    margin-left: 100px;
 }
 .firstSection img
 {
@@ -140,7 +140,7 @@ margin-left: 100px;
 
 .secondSection div
 {
-margin-bottom: 220px;
+    margin-bottom: 220px;
 }
 .secondSection h1
 {
@@ -327,8 +327,8 @@ align-items: center;
 
 .challengeSection_Text_Left
 {
-display: flex;
-align-items: center;
+    display: flex;
+    align-items: center;
 }
 .challengeSection_Text_Left img
 {
@@ -389,11 +389,11 @@ align-items: center;
 }
 #field p
 {
-font-size: 16px;
-color:#0b0c17 ;
-text-align: center;
-display: flex;
-justify-content: center;
+    font-size: 16px;
+    color:#0b0c17 ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 #field
 {
